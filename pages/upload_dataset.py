@@ -105,6 +105,7 @@ if st.button(
     )
 
     st.rerun()
+    st.success("Your Database is empty now!")
 
 
 

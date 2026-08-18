@@ -1,12 +1,20 @@
 # 📊 InsightFlow
 
-## Business Intelligence and Data Analytics Dashboard
+## Smart Business Analytics Platform
 
-InsightFlow is an interactive business analytics application built with Python and Streamlit. It allows users to upload their own sales datasets, map their columns to a standard structure, store the processed data in an SQLite database, and explore business insights through interactive dashboards and reports.
+InsightFlow is an interactive business analytics platform that allows users to upload sales data, map their columns to the application's standard structure, and generate dashboards, customer insights, product analytics, and downloadable reports.
 
-The application is designed to demonstrate a complete data analytics workflow, from raw data upload and validation to database storage, analysis, visualization, and report generation.
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://arjumand547-insightflow.streamlit.app)
+
+🚀 **Live Demo:** [Go to InsightFlow](https://arjumand547-insightflow.streamlit.app)
 
 ---
+
+### 🛠️ Built With
+
+🐍 Python • 📺 Streamlit • 🐼 Pandas • 🗄️ SQLite • 📊 Plotly
+
+
 
 # 🚀 Features
 
@@ -434,10 +442,9 @@ Possible future improvements include:
 - 🔐 User authentication
 - ☁️ Cloud database integration
 - 📊 More advanced dashboard filtering
-- 📄 PDF report generation
 - 📧 Automated report sharing
-- 🗃️ Support for larger datasets
-- 🌐 Deployment with Streamlit Community Cloud
+
+
 
 ---
 
